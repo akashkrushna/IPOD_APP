@@ -28,10 +28,10 @@
 <img src="/assets/lock.png" width="380px" height="550px"> <img src="/assets/menu.png" width="390px" height="550px"></img>
 
 ### Now Playing and Themes
-<img src="/assets/playing.png" width="400px" height="550px"></img> <img src="/assets/theme.png" width="390px" height="550px"></img>
+<img src="/assets/playing.png" width="400px" height="550px"></img> <img src="/assets/settings.png" width="390px" height="550px"></img>
 
 ### Different theme and wallpaper applied
-<img src="/assets/themewall.png" width="360px" height="550px"></img>
+<img src="/assets/themusicwall.png" width="360px" height="550px"></img>
 
 
 ## How To Install.
