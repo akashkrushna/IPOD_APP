@@ -27,10 +27,10 @@
 ### Lock Screen and Main Menu
 <img src="/assets/lock.png" width="380px" height="550px"> <img src="/assets/menu.png" width="390px" height="550px"></img>
 
-### Now Playing and Themes
+### Now Playing and Settings
 <img src="/assets/playing.png" width="400px" height="550px"></img> <img src="/assets/settings.png" width="390px" height="550px"></img>
 
-### Different theme and wallpaper applied
+### The MusicWall
 <img src="/assets/themusicwall.png" width="360px" height="550px"></img>
 
 
